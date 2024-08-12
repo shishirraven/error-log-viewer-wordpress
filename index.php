@@ -3,8 +3,9 @@
  * Plugin Name: Error Log Manager
  * Description: A simple plugin to view and clear the error.log file.
  * Version: 1.0
- * Author: Your Name
+ * Author: Shsihir Raven
  * License: GPL2
+ * Website : iamshishir.com
  */
 
 if (!defined('ABSPATH')) {
